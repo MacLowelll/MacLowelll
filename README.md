@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MacLowelll
-- 👀 I’m interested in design,  3d vxr and creating some films 
+- 👀 I’m interested in design,  3d vxr and creating some films -physics too
 - 🌱 I’m currently learning  react and design too.
  I’m looking to collaborate on website development + creation of 3d vxr 
 
